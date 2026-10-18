@@ -17,7 +17,7 @@ dupehawk 用内容哈希把这些问题一次列清：
   保留 ↓   ~/Downloads/jdk8/jdk8.exe
   副本 ✗   ~/Downloads/工具包 2/环境/jdk_8.0.1310.11_64.exe
   副本 ✗   ~/Downloads/工具包/环境/jdk_8.0.1310.11_64.exe
-  副本 ✗   ~/Downloads/环境/渗透测试环境/jdk_8.0.1310.11_64.exe
+  副本 ✗   ~/Downloads/环境/工具环境/jdk_8.0.1310.11_64.exe
   副本 ✗   ~/Downloads/环境/环境/jdk_8.0.1310.11_64.exe
 ...
 合计: 283 组重复, 399 个冗余副本, 可找回 7448.6 MB
